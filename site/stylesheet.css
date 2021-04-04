@@ -1,0 +1,49 @@
+body{
+	font-size: 20px;
+	color: 000022;
+	background-color: #FFFDD0;
+	border: 1px solid black;
+	text-align: center;
+	
+}
+nav{
+	
+	background-color:#FFFDD0 ;
+	font-family: serif, Times new roman;
+	font-size:24px;
+	
+	
+}
+a:visited{
+	background-color: black;
+}
+  a{
+  	color: red;
+  	border-bottom: 1px solid #FFFDD0
+  }
+li{
+		display: inline;
+}
+
+
+heading{
+	font-size: 26px;
+	color:black;
+	text-underline-position: under;	
+}
+
+first{
+	text-align: right;
+	color: white;
+	background-color: green;
+	text-shadow: rgba(#B03060);
+}
+box{
+	box-sizing: border-box;
+	width: 400px;
+	height: 100px;
+	margin: 10px solid green;
+	border: 5px solid blue;
+	padding: 10px solid red;
+	overflow: auto;
+}
